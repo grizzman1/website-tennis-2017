@@ -1,3 +1,9 @@
 body {
+  color:aqua;
   font-family:Helvetica, Verdana, sans-serif;
+  /* No Major Changes Just Some Minor Ones for Fun ;) */
+}
+  
+h1 {
+  text-shadow: 15px 10px ;
 }
